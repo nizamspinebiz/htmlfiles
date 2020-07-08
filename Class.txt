@@ -1,0 +1,27 @@
+<html>
+<head>
+	<title> This is my page</title>
+</head>
+<body background="Background.jpg">
+
+<audio controls>
+<source src ="myaudio.mp3"type ="audio mp3"/>
+</audio>
+<video control>
+<source src = type "video mp4"/>
+
+<video>
+
+<p>This is a division<p/>
+<p><font face="Times New Roman" color="blue" size="5">Para for topic seperation</p></font>
+</div>
+<article>
+this is new
+</article>
+<section>
+This is not an article
+</section>
+this not article
+</body>
+</html>
+
